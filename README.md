@@ -16,7 +16,6 @@
   <img alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img alt="TypeORM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" />
   <img alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
